@@ -2,9 +2,9 @@ from email import message
 import requests
 from twilio.rest import Client
 
-API_KEY = '91b1913f192364d6cc0d00db3d4d206e'
-ACCOUNT_SID = 'AC04515352dbf7f1abc560983c3ba25dde'
-AUTH_TOKEN = '52dfee836de193473dea7e980bdc3294'
+API_KEY = 'api_key..'
+ACCOUNT_SID = 'account_sid..'
+AUTH_TOKEN = 'auth_token..'
 LONG = 21.01178
 LAT = 52.229771
 
